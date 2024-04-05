@@ -32,7 +32,7 @@ Check out more of my projects on [GitHub](https://github.com/farrell-j?tab=repos
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/joseph-a-farrell-913924117/)
-- [Email](<a href="mailto:farrell.j@protonmail.com?">)
+- [Email](mailto:farrell.j@protonmail.com?)
 
 Let's chat! Feel free to reach out. 📩
 
