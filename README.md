@@ -15,7 +15,7 @@ I'm Joe, a cyber professional and tech-savant. Welcome to my GitHub universe! ðŸ
 - **Languages:** HTML, CSS, Javascript, Python, SQL
 - **Web_Dev:** Node.JS, REACT, Express, Knex.JS
 - **Databases:** PostgreSQL, DynamoDB, pgAdmin, MongoDB
-- **Dev_Tools:** Docker, Kubernetes, VSCode, Grafana, GitLab, Postman, JIRA, npm, Vim, Nano, Sublime
+- **Dev_Tools:** Docker, Kubernetes, VSCode, Grafana, GitLab, Postman, JIRA, npm, Vim, Nano, Slack
 - **Cyber_Tools:** Nmap, Metasploit, WireShark, Nessus, Snort, Burp Suite
 - **Forensics:** Autopsy, TSK, dd, Volatility, EnCase
 
