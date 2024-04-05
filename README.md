@@ -12,7 +12,7 @@ I'm Joe, a cyber professional and tech-savant. Welcome to my GitHub universe! ðŸ
 
 ## ðŸ’¡ Skills
 
-- **Languages:** HTML, CSS, Javascript, Python, SQL
+- **Languages:** HTML, CSS, Javascript, Typescript, Python, SQL
 - **Web_Dev:** Node.JS, REACT, Express, Knex.JS
 - **Databases:** PostgreSQL, DynamoDB, pgAdmin, MongoDB
 - **Dev_Tools:** Docker, Kubernetes, VSCode, Grafana, GitLab, Postman, JIRA, npm, Vim, Nano, Slack
