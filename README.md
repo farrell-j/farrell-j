@@ -29,6 +29,7 @@ Here are some cool projects I've been working on:
 1. [Google Review Scraper](https://github.com/farrell-j/Google_Review_Scraper)
 2. [SDI Captstone](https://github.com/farrell-j/Capstone-Project)
 3. [Z-Prefix-App](https://github.com/farrell-j/z-prefix-app)
+4. [Cosmos-Web](https://github.com/hsfl/cosmos-web)
 
 Check out more of my projects on [GitHub](https://github.com/farrell-j?tab=repositories)!
 
