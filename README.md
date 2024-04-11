@@ -3,7 +3,7 @@
 ![Header](./github-header-profile-image.png)
 
 
-I'm Joe, a cyber professional and tech-savant. Welcome to my GitHub universe! 🚀
+I'm Joe, a cyber professional and tech-savant. Welcome to my GitHub Universe! 🚀
 
 ## 🌟 About Me
 
