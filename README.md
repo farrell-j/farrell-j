@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 
 I'm Joe, a cyber professional and tech-savant. Welcome to my GitHub universe! 🚀
