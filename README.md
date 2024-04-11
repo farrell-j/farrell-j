@@ -1,5 +1,8 @@
 # Hey there! 👋
 
+![Header](./github-header-image.png)
+
+
 I'm Joe, a cyber professional and tech-savant. Welcome to my GitHub universe! 🚀
 
 ## 🌟 About Me
