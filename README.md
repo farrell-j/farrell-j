@@ -7,7 +7,7 @@ I'm Joe, a cyber professional and tech-savant. Welcome to my GitHub universe! �
 
 ## 🌟 About Me
 
-#- 🎓 Graduated with a degree in Technology Management from Florida Tech.
+# - 🎓 Graduated with a degree in Technology Management from Florida Tech.
 #- 🎓 Completed the Galvanize Full-Stack Software Developer CodeCamp
 #- 💼 Currently rocking it as a DevSecOps Chief at United States Space Command.
 #- 💻 Passionate about cybersecurity, software engineering, and cloud solutions.
