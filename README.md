@@ -15,11 +15,12 @@ I'm Joe, a cyber professional and tech-savant. Welcome to my GitHub Universe! ðŸ
 
 ## ðŸ’¡ Skills
 
-- **Languages:** HTML, CSS, Javascript, Typescript, Python, SQL
-- **Web_Dev:** Node.JS, REACT, Express, Knex.JS
+- **Languages:** HTML, CSS, Javascript, Typescript, Python, Java, SQL
+- **Web_Dev:** Node.JS, REACT, Express, NEXT.js, Tailwind CSS, Vite, Vue
 - **Databases:** PostgreSQL, DynamoDB, pgAdmin, MongoDB
 - **Dev_Tools:** Docker, Kubernetes, VSCode, Grafana, GitLab, Postman, JIRA, npm, Vim, Nano, Slack
-- **Cyber_Tools:** Nmap, Metasploit, WireShark, Nessus, Snort, Burp Suite
+- **Cloud:** AWS & GCP
+- **Cyber_Tools:** Nmap, Metasploit, WireShark, Nessus, Snort, OWASP, OpenCTI, MISP
 - **Forensics:** Autopsy, TSK, dd, Volatility, EnCase
 
 <div align="center">
@@ -59,6 +60,7 @@ I'm Joe, a cyber professional and tech-savant. Welcome to my GitHub Universe! ðŸ
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
+	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code>
 </div>
 
 ## ðŸš€ Projects
