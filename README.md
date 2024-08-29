@@ -17,6 +17,7 @@ I'm Joe, a cyber professional and tech-savant. Welcome to my GitHub Universe! ðŸ
 
 - **Languages:** HTML, CSS, Javascript, Typescript, Python, Java, SQL
 - **Web_Dev:** Node.JS, REACT, Express, NEXT.js, Tailwind CSS, Vite, Vue
+- **Ai/ML:** Vertex AI, Gemini, Cursor.ai, OpenAI, Claude, V0.dev
 - **Databases:** PostgreSQL, DynamoDB, pgAdmin, MongoDB
 - **Dev_Tools:** Docker, Kubernetes, VSCode, Grafana, GitLab, Postman, JIRA, npm, Vim, Nano, Slack
 - **Cloud:** AWS & GCP
@@ -71,6 +72,7 @@ I'm Joe, a cyber professional and tech-savant. Welcome to my GitHub Universe! ðŸ
 2. [SDI Captstone](https://github.com/farrell-j/Capstone-Project)
 3. [Z-Prefix-App](https://github.com/farrell-j/z-prefix-app)
 4. [Cosmos-Web](https://github.com/hsfl/cosmos-web)
+5. [Chatbot-UI](https://github.com/farrell-j/Chatbot_UI)
 
 #Check out more of my projects on [GitHub](https://github.com/farrell-j?tab=repositories)!
 
